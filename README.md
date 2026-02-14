@@ -23,6 +23,18 @@ $$f(n) = g(n) + h(n)$$
 3. Run the script:
    `python maze_solver.py`
 
+## 🎮 How to Play
+- **Left Click:** Place the **Start** (Green), **Goal** (Blue), and **Walls** (Black).
+- **Right Click:** Erase nodes or walls.
+- **Spacebar:** Watch the AI find the shortest path in real-time.
+- **'C' Key:** Clear the grid and start over.
+
+## 🚀 Setup
+1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/Syntecxhub_Maze_Solver.git`
+2. Install dependencies: `pip install pygame`
+3. Run the game: `python maze_solver.py`
+
 ---
-[cite_start]**Internship Provider:** [Syntecxhub](https://www.syntecxhub.com) [cite: 59]  
-**Intern:** Ammara Tahir
+**Intern:** Ammara Tahir  
+[cite_start]**Internship Provider:** [Syntecxhub](https://www.syntecxhub.com) [cite: 59]
+---
