@@ -29,7 +29,7 @@ $$f(n) = g(n) + h(n)$$
 - **Spacebar:** Watch the AI find the shortest path in real-time.
 - **'C' Key:** Clear the grid and start over.
 
-## 🚀 Setup
+## Setup
 1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/Syntecxhub_Maze_Solver.git`
 2. Install dependencies: `pip install pygame`
 3. Run the game: `python maze_solver.py`
